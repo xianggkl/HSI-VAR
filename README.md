@@ -1,4 +1,5 @@
 # HSI-VAR: Rethinking Hyperspectral Restoration through Spatial–Spectral Visual Autoregression</span><br>
+[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2602.00749)
 ![Language](https://img.shields.io/badge/language-python-red)
 
 Contact: xmwang28@gmail.com
